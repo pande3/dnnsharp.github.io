@@ -16,9 +16,9 @@ This allows you to export tokens from your specific module that can be accessed 
 
 MyTokens will act as a bridge between components, allowing them to exchange data and interact. Furthermore, tokens from various sources can be combined and nested, resulting in a portal connected to the world, with data synchronized components. Also, a powerful and reliable syntax allows 3rd party developers to expose simple to complex tokens under a unified interface. 
 
-* [Build API/Web Services](api-web-services.html)
+* [Build API/Web Services](/dnnapiendpoint/index.html)
 
-This allows invoking tokens via HTTP from outside the DotNetNuke framework and modules (for example from a desktop application, an AJAX call from another website, a synchronization service and so on).
+This feature of my tokens has been deprecated. To create APIs, you should use [DNN API Endpoint](/dnnapiendpoint/index.html)
 
 **Please [Contact Us](https://www.dnnsharp.com/contact){:target="_blank"} for more integration information and link exchange.** We are maintaining a list of modules and other components that integrate with MyTokens.
 
